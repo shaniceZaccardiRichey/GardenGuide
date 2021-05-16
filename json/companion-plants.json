@@ -1,0 +1,338 @@
+{
+    "name": "Asparagus",
+    "companions": [
+		"Calendula (Pot Marigold)",
+		"Petunias",
+		"Tomatoes"
+	],
+    "notes": [
+        "<b>Calendula</b>, <b>tomatoes</b>, and <b>petunias</b> are thought to deter asparagus beetles."
+    ]
+},
+{
+    "name": "Basil",
+    "companions": [
+		"Lettuce",
+		"Peppers",
+		"Purslane",
+		"Tomatoes"
+	],
+    "notes": [
+        "<b>Purslane</b> is used to shade the soil around basil plants, helping them to remain fresh in hot weather.",
+		"Basil improves the growth and flavor of <b>tomatoes</b>, <b>peppers</b>, and <b>lettuce</b>."
+    ]
+},
+{
+    "name": "Beans",
+    "companions": [
+		"Beets",
+		"Corn",
+		"Lovage",
+		"Nasturtium",
+		"Rosemary",
+		"Squash",
+		"Strawberries",
+		"Sunflower"
+	],
+    "notes": [
+        "<b>Nasturtiums</b> can be used as a trap plant to entice aphids away from beans.",
+		"<b>Lovage</b> and <b>rosemary</b> also have excellent insect repellent qualities.",
+		"<b>Sunflowers</b> can be used to create shade for sun-stressed crops.",
+		"<b>Corn</b> will benefit from the beans’ nitrogen-fixing capabilities. Pole beans can also provide structural support for tall corn."
+    ]
+},
+{
+    "name": "Beets",
+    "companions": [
+		"Brassicas",
+		"Bush beans",
+		"Garlic",
+		"Lettuce",
+		"Onion family"
+	],
+    "notes": [
+        "Beets make great companions for <b>onions</b>, <b>garlic</b>, <b>leeks</b>, <b>lettuce</b>, and plants in the <b>Brassica family</b>, like <b>broccoli</b> and <b>cabbage</b>.",
+		"<b>Onions</b> are thought to protect against borers, mites, slugs and cutworms and maggots of all types.",
+		"Beets adds minerals to the soil, as beet leaves are composed of 25% magnesium.",
+		"<b>Note:</b> Beets won’t grow well if shaded by runner beans or taller crops."
+    ]
+},
+{
+    "name": "Broccoli",
+    "companions": [
+		"Oregano",
+		"Cabbage",
+		"Other Brassicas (brussels sprouts, cauliflower, etc."
+	],
+    "notes": [
+        "<strong>Oregano</strong> has insecticidal properties.",
+		"Plant <strong>Brassicas</strong> together so that they can all be covered with nets to protect from pests such as cabbageworm.",
+		"They also all like lime added to the soil."
+    ]
+},
+{
+    "name": "Cabbage",
+    "companions": [
+		"Garlic",
+		"Nasturtium",
+		"Sage"
+	],
+    "notes": [
+        "<strong>Nasturtiums</strong> deter insect pests such as beetles and aphids.",
+		"<strong>Garlic</strong> planted alongside cabbage repels insects with its odor.",
+		"<strong>Sage</strong> deters cabbage moth."
+    ]
+},
+{
+    "name": "Carrots",
+    "companions": [
+		"Cabbage",
+		"Chives",
+		"Early potatoes",
+		"Leeks",
+		"Lettuce",
+		"Onions",
+		"Peas",
+		"Radishes",
+		"Rosemary",
+		"Sage",
+		"Tomatoes"
+	],
+    "notes": [
+        "<strong>Chives</strong> improve the growth and flavor of carrots and deter aphids, mites and flies.",
+		"<strong>Rosemary</strong> and <strong>sage</strong> repel carrot fly.",
+		"<strong>Leeks</strong> are thought to repel many flying pests (including carrot rust fly).",
+		"<strong>Foes: Dill</strong> can reduce the yield of carrots.",
+		"<strong>Dill</strong>, <strong>coriander</strong>, <strong>celery</strong>, and other members of the <strong>Parsley family</strong> should not be planted near carrots (they tend to cross pollinate)."		
+    ]
+},
+{
+    "name": "Corn",
+    "companions": [
+		"Beans (pole)",
+		"Cucumbers",
+		"Dill",
+		"Marigolds",
+		"Melons",
+		"Peas",
+		"Squash",
+		"Sunflower",
+	],
+    "notes": [
+        "<strong>Dill</strong> is thought to protect against aphids and mites.",
+		"<strong>Beans</strong> can provide more nitrogen to the corn.",
+		"<strong>Sunflowers</strong> can act as a structure and a windbreak for the corn.",
+		"<strong>Marigolds</strong> prevent nematodes in the soil over time.",
+		"<strong>Pole beans</strong> are sometimes interplanted with corn, as they add nitrogen to the soil and provide structural support."
+		
+    ]
+},
+{
+    "name": "Cucumbers",
+    "companions": [
+		"Beans",
+		"Borage",
+		"Dill",
+		"Lettuce",
+		"Nasturtiums",
+		"Oregano",
+		"Radish",
+		"Sunflowers",
+		"Tansy"
+	],
+    "notes": [
+        "<strong>Dill</strong> is thought to protect against aphids and mites.",
+		"<strong>Nasturtium</strong> deters aphids, beetles and bugs and improves growth and flavor.",
+		"<strong>Oregano</strong> deters pests in general.",
+		"<strong>Sunflowers</strong> can provide a trellis and shelter for shade-loving cucumbers.",
+		"<strong>Tansy</strong> deters ants, beetles, bugs, flying insects, as does <strong>borage</strong>, which is also supposed to improve growth and flavor.",
+		"(<strong>Note:</strong> Tansy is considered invasive in some areas. See local guidelines before planting.)"
+		
+    ]
+},
+{
+    "name": "Lettuce",
+    "companions": [
+		"Basil",
+		"Beets",
+		"Cabbage",
+		"Carrots",
+		"Chives",
+		"Onions",
+		"Poached Egg plants",
+		"Radishes",
+		"Scallions",
+		"Spinach",
+		"Strawberries"
+	],
+    "notes": [
+        "<strong>Chives</strong>, <strong>onions</strong>, and <strong>garlic</strong> deter aphids and other pests by masking the scent of the lettuce with their aroma.",
+		"<strong>Basil</strong> is thought to improve the flavor and growth of lettuce.",
+		"<strong>Radishes</strong> can be used as a trap crop for flea beetles.",
+		"<strong>Poached egg plants</strong> (Limnanthes), a wildflower, will bring hoverflies and other beneficials that eat aphids."
+    ]
+},
+{
+    "name": "Onions",
+    "companions": [
+		"Beets",
+		"Chamomile",
+		"Cabbage",
+		"Carrot",
+		"Chard",
+		"Lettuce",
+		"Strawberry",
+		"Summer Savory",
+		"Tomatoes"
+	],
+    "notes": [
+        "<strong>Onions</strong> are thought to protect against borers, mites, slugs, and cutworms, as well as maggots of all types.",
+		"<strong>Chamomile</strong> and <strong>summer savory</strong> improve onion growth and flavor."
+    ]
+},
+{
+    "name": "Peas",
+    "companions": [
+		"Alyssum",
+		"Beans",
+		"Carrot",
+		"Chives",
+		"Corn",
+		"Cucumber",
+		"Mint",
+		"Radish",
+		"Turnip"
+	],
+    "notes": [
+        "<strong>Chives</strong> deter aphids.",
+		"<strong>Mint</strong> improves health and flavor.",
+		"<strong>Alyssum</strong> brings in pollinators and encourages green lacewings, which eat aphids.",
+		"<strong>Foes:</strong> Do not plant near <strong>garlic</strong> and <strong>onion</strong>, as they will stunt the growth of peas."
+    ]
+},
+{
+    "name": "Peppers",
+    "companions": [
+		"Basil",
+		"Carrots",
+		"Marjoram",
+		"Onions",
+		"Oregano",
+		"Tomatoes"
+	],
+    "notes": [
+        "Herbs like <strong>basil</strong>, <strong>oregano</strong>, and <strong>marjoram</strong> have a protective, insectidal quality."
+    ]
+},
+{
+    "name": "Potatoes",
+    "companions": [
+		"Basil",
+		"Beans",
+		"Brassica",
+		"Calendula (Pot Merigold)",
+		"Catmint",
+		"Cilantro",
+		"Eggplant",
+		"Horseradish",
+		"Peas",
+		"Squash",
+		"Tansy"
+	],
+    "notes": [
+        "<strong>Beans</strong> can improve the size of potato tubers.",
+		"<strong>Cilantro</strong> is thought to protect against aphids, spider mites and potato beetles.",
+		"<strong>Calendula</strong>, <strong>tansy</strong>, and <strong>horseradish</strong> planted at the corner of a potato patch wards off Colorado potato beetles.",
+		"(<strong>Note:</strong> Tansy is considered invasive in some areas. See local guidelines before planting.)",
+		"<strong>Catmint</strong> also repels Colorado potato beetles, but can bring cats into the vegetable garden, so it is a good idea to plant it in pots around the edge of the plot.",
+		"<strong>Foes:</strong> Potatoes tend to be smaller when planted with corn, which is also a heavy feeder."
+    ]
+},
+{
+    "name": "Radishes",
+    "companions": [
+		"Chervil",
+		"Lettuce",
+		"Nasturtium",
+		"Peas"
+	],
+    "notes": [
+		"<strong>Chervil</strong> and <strong>nasturtium</strong> improve growth and flavor.",
+		"<strong>Lettuce</strong> tenderizes summer radishes.",
+		"<strong>Note:</strong> Radishes are often used as trap crops for flea beetles"
+    ]
+},
+{
+    "name": "Squash (Winter) & Pumpkins",
+    "companions": [
+		"Beans (pole)",
+		"Borage",
+		"Calendula",
+		"Corn",
+		"Marigold",
+		"Nasturtium",
+		"Oregano"
+	],
+    "notes": [
+		"<strong>Nasturtiums</strong> are thought to protect against pumpkin and squash beetles.",
+		"<strong>Borage</strong> attracts pollinators and improves growth and flavor.",
+		"<strong>Oregano</strong> provides general pest protection.",
+		"<strong>Calendula</strong> deters beetles and root nematodes.",
+		"<i><strong>Note:</strong> Pumpkins do grow well with other winter squash, as they have the same growing requirements.</i>"
+    ]
+},
+{
+    "name": "Spinach",
+    "companions": [
+		"Beans",
+		"Borage",
+		"Calendula",
+		"Corn",
+		"Marigold",
+		"Nasturtium",
+		"Oregano"
+	],
+    "notes": [
+		"<strong>Peas<strong> and <strong>beans</strong> provide natural shade for spinach.",
+		"<strong>Cilantro</strong> is thought to repel insects."
+    ]
+},
+{
+    "name": "Tomatoes",
+    "companions": [
+		"Asparagus",
+		"Basil",
+		"Borage",
+		"Calendula (Pot Marigold)",
+		"Carrot",
+		"Celery",
+		"Chives",
+		"Cucumber",
+		"Garlic",
+		"Monada (Bee Balm)",
+		"Nasturtium",
+		"Onion",
+		"Parsley",
+		"Pepper"
+	],
+    "notes": [
+		"<strong>Monarda</strong> and <strong>chives</strong> improve health and flavor.",
+		"<strong>Calendula</strong> deters general garden pests.",
+		"<strong>Parsley</strong> draws insects away from tomatoes.",
+		"<strong>Asparagus</strong> is thought to repel nematodes.",
+		"<strong>Basil</strong> is thought to repel whiteflies, mosquitoes spider mites, and aphids.",
+		"<strong>Basil</strong> also attracts bees, which improves pollination, tomato health and flavor."
+    ]
+},
+{
+    "name": "Zucchini (Summer Squash)",
+    "companions": [
+		"Oregano",
+		"Nasturtium",
+		"Zinnia"
+	],
+    "notes": [
+		"To attract pollinators, plant <strong>oregano</strong> and <strong>zinnias</strong>.",
+		"<strong>Nasturtium</strong> is though to protect against aphids and whiteflies."
+    ]
+}
