@@ -3,7 +3,7 @@ var plantsArray = [];
 
 const loadPlants = async () => {
     try {
-        const res = await fetch('https://shanicezaccardirichey.github.io/GardenGuide/scripts/companion-planting.json');
+        const res = await fetch('https://github.com/shaniceZaccardiRichey/GardenGuide/blob/b840d1803fdd4d42d3a076e0b513d11e2e5f7c01/json/companion-plants.json');
         plantsList = await res.json();
         displayPlants(plantsList);
     } catch (err) {
