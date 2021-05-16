@@ -11,7 +11,7 @@ const loadPlants = async () => {
     }
 };
 
-const displayPLants = (plants) => {
+const displayPlants = (plants) => {
     const htmlString = plants
         .map((plant) => {
             return `
