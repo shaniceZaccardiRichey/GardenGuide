@@ -130,7 +130,8 @@ ul li:hover a {
 }
 
 .text_column a {
-	display: block;
+	display: flex;
+	align-items: center;
 	margin: auto;
 	background-color: #E97801;
 	color: #FFFFFF;

@@ -1,6 +1,17 @@
 var plantsList = document.getElementById('plantsList');
 var plantsArray = [];
 
+searchBar.addEventListener('keyUp', (e) => {
+	const searchString = e.target.value.toLocaleLowerCase();
+	
+	const filteredPlants = plantsArray.filter(plant +> {
+		return(
+		plant.name.toLowerCase()includes(searchString)
+		);
+	});
+	displayCharacters(filteredPlants);
+});
+
 const loadPlants = async () => {
     try {
         const res = await fetch('https://shanicezaccardirichey.github.io/GardenGuide/json/companion-plants.json');
