@@ -6,7 +6,7 @@ searchBar.addEventListener('keyUp', (e) => {
 	
 	const filteredPlants = plantsArray.filter(plant => {
 		return(
-		plant.name.toLowerCase()includes(searchString)
+			plant.name.toLowerCase().includes(searchString)
 		);
 	});
 	displayCharacters(filteredPlants);
