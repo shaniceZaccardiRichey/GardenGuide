@@ -2,15 +2,13 @@ var plantsList = document.getElementById('plantsList');
 const searchBar = document.getElementById('searchBar');
 var plantsArray = [];
 
-searchBar.addEventListener('keyUp', (e) => {
-	const searchString = e.target.value.toLocaleLowerCase();
+searchBar.addEventListener('keyup', (e) => {
+	const searchString = e.target.value.toLowerCase();
 	
-	const filteredPlants = plantsArray.filter(plant => {
-		return(
-			plant.name.toLowerCase().includes(searchString)
-		);
+	const filteredPlants = plantsArray.filter((plant) => {
+		return plant.name.toLowerCase().includes(searchString);
 	});
-	displayCharacters(filteredPlants);
+	displayPlants(filteredPlants);
 });
 
 const loadPlants = async () => {
