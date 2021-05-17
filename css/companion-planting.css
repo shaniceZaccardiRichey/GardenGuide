@@ -100,6 +100,13 @@ ul li:hover a {
     text-align: center;
 }
 
+.plantContainer h1 {
+	font-family: 'Kameron', serif;
+	font-size: 1.6em;
+	color: #3D4A8E;
+	text-align: center;
+}
+
 #plantList {
 	padding-inline-start: 0;
     display: grid;
@@ -122,6 +129,19 @@ ul li:hover a {
 	font-size: 1.6em;
 	color: #3D4A8E;
 	text-align: center;
+}
+
+.plant h3{
+	font-family: 'Kameron', serif;
+	font-size: 1.2em;
+	color: #3D4A8E;
+	text-align: center;
+}
+
+.plant ul{
+	color: #525050;
+	font-family: 'Adamina', serif;
+	font-size: 1em;
 }
 
 .column {
