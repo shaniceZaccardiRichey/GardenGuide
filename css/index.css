@@ -139,6 +139,7 @@ ul li:hover a {
 	text-align: center;
 	justify-content: center;
 	text-decoration: none;
+	vertical-align: middle;
 }
 .about {
 	padding-left: 25px;
@@ -258,6 +259,7 @@ footer .footer_column p {
 	margin-right: 20px;
 }
 .button {
+	display: block;
 	width: 200px;
 	margin-top: 40px;
 	margin-right: auto;
@@ -276,6 +278,7 @@ footer .footer_column p {
 	border: 3px solid #FFFFFF;
 	color: #FFFFFF;
 	transition: all 0.3s linear;
+	background-color: #E97801;
 }
 .button:hover {
 	background-color: #FEFEFE;
