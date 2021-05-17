@@ -4,7 +4,7 @@ var plantsArray = [];
 searchBar.addEventListener('keyUp', (e) => {
 	const searchString = e.target.value.toLocaleLowerCase();
 	
-	const filteredPlants = plantsArray.filter(plant +> {
+	const filteredPlants = plantsArray.filter(plant => {
 		return(
 		plant.name.toLowerCase()includes(searchString)
 		);
