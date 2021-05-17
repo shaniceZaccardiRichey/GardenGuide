@@ -29,9 +29,8 @@ const displayPlants = (plants) => {
 
             return `
             <li class="plant">
-
+				<h2>${plant.name}</h2>
 				<div class="column">
-					<h2>${plant.name}</h2>
                 	<h3>Companion Plants</h3>
                 	<ul>${companions.join('')}</ul>
 				</div>
