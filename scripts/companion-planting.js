@@ -1,4 +1,5 @@
 var plantsList = document.getElementById('plantsList');
+const searchBar = document.getElementById('searchBar');
 var plantsArray = [];
 
 searchBar.addEventListener('keyUp', (e) => {
