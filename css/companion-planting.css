@@ -10,12 +10,17 @@ body {
 	font-style: normal;
 	font-weight: 200;
 }
+
+* {
+  box-sizing: border-box;
+}
+
 /* Container */
 .container {
 	width: 90%;
 	margin-left: auto;
 	margin-right: auto;
-	height: 1500px;
+	height: 100%;
 	background-color: #FFFFFF;
 }
 /* Navigation */
@@ -107,7 +112,20 @@ ul li:hover a {
     background-color: #eaeaea;
     border-radius: 3px;
     padding: 10px 20px;
+	margin: 20px;
     text-align: left;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.plant:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 /* Search */
@@ -129,5 +147,14 @@ ul li:hover a {
     position: absolute;
     top: 7px;
     right: 15px;
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
 }
 
